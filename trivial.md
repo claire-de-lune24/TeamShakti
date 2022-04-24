@@ -1,8 +1,8 @@
 
 
-Tamuctf22
+#Tamuctf22
  
-Trivial - pwn challenge
+##Trivial - pwn challenge
 The challenge file for tamuctf is a zip which contains an elf trivial, a c file called trivial.c and a python file solver-template.py,.This exploit is done using gdb to get a better understanding.
 The file trivial.c gives:
 ```
