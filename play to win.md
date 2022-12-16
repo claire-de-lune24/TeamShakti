@@ -82,6 +82,7 @@ Ah well, you did win afterall.
 I guess congratlations are in order.
 ```
  On opening the file in gdb and observing all the functions-
+
 ![](https://i.imgur.com/hBilDaC.png)
 
 We see that there are two win fuctions here, winfunc and reallywin.And reallywin shows:
