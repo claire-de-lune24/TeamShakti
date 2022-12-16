@@ -3,8 +3,11 @@
 ### level0
 Description:
 Solve level0 of the pyjail series!
+
 Note: The server is running on Ubuntu 22.04.
+
 Flag format: shakti{}
+
 Author: Claire de lune
 
 ### Intended solution
@@ -27,9 +30,13 @@ This gives us the flag: `shakti{7h47_w45_7Un!3a36rgjsk9}`
  
 ### level1
 Description:
+
 Solve level1 of the pyjail series!
+
 Note: The server is running on Ubuntu 22.04.
+
 Flag format: shakti{}
+
 Author: Claire de lune
 
 ### Intended solution
@@ -59,9 +66,13 @@ This displays the message:
  The flag is : `shakti{7h47_W45_4_Cl053_C4ll!!!}`
 ### endgame
 Description:
+
 Solve endgame of the pyjail series!
+
 Note: The server is running on Ubuntu 22.04.
+
 Flag format: shakti{}
+
 Author: Claire de lune
 
 ### Intended solution
