@@ -18,6 +18,7 @@ A binary file is given as an attachment, where the usual checks give:
 ![](https://i.imgur.com/BVAl2Cl.png)
 
 Running the file-
+
 ![](https://i.imgur.com/3gEnXL2.png)
 
 
